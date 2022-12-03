@@ -15,27 +15,27 @@ thus this trick helps a lot:
 
 1. Go To swagger documentation endpoint.
       
-<img src="/main/api/Export%20Swagger%20documentation%20to%20Postman%20Collection/api-1.png" height="200" width="300"/>
+<img src="https://raw.githubusercontent.com/n4j1Br4ch1D/anmoon-tricks/main/api/Export%20Swagger%20documentation%20to%20Postman%20Collection/api-1.png" height="200" width="300"/>
 
 2. Click on the link as highlighted below & Copy the URL. 
    
-<img src="/main/api/Export%20Swagger%20documentation%20to%20Postman%20Collection/api-2.png" height="200" width="300"/>
+<img src="https://raw.githubusercontent.com/n4j1Br4ch1D/anmoon-tricks/main/api/Export%20Swagger%20documentation%20to%20Postman%20Collection/api-2.png" height="200" width="300"/>
 
 3. Go To  Postman, Click Import at Top-Left corner:
 
-<img src="/main/api/Export%20Swagger%20documentation%20to%20Postman%20Collection/api-3.png" height="200" width="300"/>
+<img src="https://raw.githubusercontent.com/n4j1Br4ch1D/anmoon-tricks/main/api/Export%20Swagger%20documentation%20to%20Postman%20Collection/api-3.png" height="200" width="300"/>
 
 4. Switch to Link tab & paste the copied URL:
 
-<img src="/main/api/Export%20Swagger%20documentation%20to%20Postman%20Collection/api-4.png" height="200" width="300"/>
+<img src="https://raw.githubusercontent.com/n4j1Br4ch1D/anmoon-tricks/main/api/Export%20Swagger%20documentation%20to%20Postman%20Collection/api-4.png" height="200" width="300"/>
 
 5. Choose default settings & click Import:
 
-<img src="/main/api/Export%20Swagger%20documentation%20to%20Postman%20Collection/api-5.png" height="200" width="300"/>
+<img src="https://raw.githubusercontent.com/n4j1Br4ch1D/anmoon-tricks/main/api/Export%20Swagger%20documentation%20to%20Postman%20Collection/api-5.png" height="200" width="300"/>
 
 6. Your new collection will appear with all your endpoints and data:
 
-<img src="/main/api/Export%20Swagger%20documentation%20to%20Postman%20Collection/api-6.png" height="200" width="300"/>
+<img src="https://raw.githubusercontent.com/n4j1Br4ch1D/anmoon-tricks/main/api/Export%20Swagger%20documentation%20to%20Postman%20Collection/api-6.png" height="200" width="300"/>
 
 
 ## Problem With Swagger & Postman?
