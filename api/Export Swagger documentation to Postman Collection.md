@@ -15,27 +15,27 @@ thus this trick helps a lot:
 
 1. Go To swagger documentation endpoint.
       
-<img src="https://raw.githubusercontent.com/n4j1Br4ch1D/anmoon-tricks/main/api/Export Swagger documentation to Postman Collection/api-1.PNG" height="200" width="300"/>
+<img src="/main/api/Export%20Swagger%20documentation%20to%20Postman%20Collection/api-1.png" height="200" width="300"/>
 
-1. Click on the link as highlighted below & Copy the URL. 
+2. Click on the link as highlighted below & Copy the URL. 
    
-<img src="https://raw.githubusercontent.com/n4j1Br4ch1D/anmoon-tricks/main/api/Export Swagger documentation to Postman Collection/api-2.PNG" height="200" width="300"/>
+<img src="/main/api/Export%20Swagger%20documentation%20to%20Postman%20Collection/api-2.png" height="200" width="300"/>
 
-1. Go To  Postman, Click Import at Top-Left corner:
+3. Go To  Postman, Click Import at Top-Left corner:
 
-<img src="https://raw.githubusercontent.com/n4j1Br4ch1D/anmoon-tricks/main/api/Export Swagger documentation to Postman Collection/api-3.PNG" height="200" width="300"/>
+<img src="/main/api/Export%20Swagger%20documentation%20to%20Postman%20Collection/api-3.png" height="200" width="300"/>
 
 4. Switch to Link tab & paste the copied URL:
 
-<img src="https://raw.githubusercontent.com/n4j1Br4ch1D/anmoon-tricks/main/api/Export Swagger documentation to Postman Collection/api-4.PNG" height="200" width="300"/>
+<img src="/main/api/Export%20Swagger%20documentation%20to%20Postman%20Collection/api-4.png" height="200" width="300"/>
 
 5. Choose default settings & click Import:
 
-<img src="https://raw.githubusercontent.com/n4j1Br4ch1D/anmoon-tricks/main/api/Export Swagger documentation to Postman Collection/api-5.PNG" height="200" width="300"/>
+<img src="/main/api/Export%20Swagger%20documentation%20to%20Postman%20Collection/api-5.png" height="200" width="300"/>
 
 6. Your new collection will appear with all your endpoints and data:
 
-<img src="https://raw.githubusercontent.com/n4j1Br4ch1D/anmoon-tricks/main/api/Export Swagger documentation to Postman Collection/api-6.PNG" height="200" width="300"/>
+<img src="/main/api/Export%20Swagger%20documentation%20to%20Postman%20Collection/api-6.png" height="200" width="300"/>
 
 
 ## Problem With Swagger & Postman?
